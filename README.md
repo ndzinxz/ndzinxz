@@ -25,3 +25,7 @@ Here are some programming languages and technologies I am familiar with:
 [![Linkedin: Ellen](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/RonaldyGuimarães/)](https://www.linkedin.com/in/ronaldy-guimar%C3%A3es-55b30834a/)
 
 Feel free to contact me to discuss collaborations, interesting projects, or any other programming-related topic. I look forward to hearing from you! 😊
+
+<img src="https://raw.githubusercontent.com/ndzinxz/ndzinxz/output/snake.svg" alt="Snake animation" />
+
+###
