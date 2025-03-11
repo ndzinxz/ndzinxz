@@ -17,7 +17,7 @@ Here are some programming languages and technologies I am familiar with:
 [![My Skills](https://skillicons.dev/icons?i=flask,django)](https://skillicons.dev)
 
 ## ⚙️ Tools:
-[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,pycharm)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,pycharm)](https://skillicons.dev)<br><br>
 
 ## 📫 Contact
 
