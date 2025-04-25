@@ -4,7 +4,7 @@
 
 - 💻 Programming Student
 - 🌱 Passionate about Technology
-- 🎓 Studying Computer Science - UVA
+- 🎓 Studying Computer Science
 
 ## 🚀 Skills
 
